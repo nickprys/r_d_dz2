@@ -1,0 +1,31 @@
+[33mcommit bead8a31c978f81638470be33d72279e57457bd8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Myko_Prys <nickprys@gmail.com>
+Date:   Sun Jan 26 14:01:06 2025 +0100
+
+    Revert "Oops, we didn't want this commit"
+    
+    This reverts commit c6b4dbe2f3003c6f79c428e1b48c7cc006c0e1c5.
+
+[33mcommit c6b4dbe2f3003c6f79c428e1b48c7cc006c0e1c5[m
+Author: Myko_Prys <nickprys@gmail.com>
+Date:   Sun Jan 26 14:00:45 2025 +0100
+
+    Oops, we didn't want this commit
+
+[33mcommit 6b919de22056f37e5e5bf4bb66bd1e1311cc80b7[m[33m ([m[1;33mtag: v1[m[33m)[m
+Author: Myko_Prys <nickprys@gmail.com>
+Date:   Sun Jan 26 13:21:05 2025 +0100
+
+    Added HTML header
+
+[33mcommit c113fb598fbeab633cc22ecb26bdde352e73730b[m[33m ([m[1;33mtag: v1-beta[m[33m)[m
+Author: Myko_Prys <nickprys@gmail.com>
+Date:   Sun Jan 26 13:18:11 2025 +0100
+
+    Added standard HTML page tags
+
+[33mcommit 4f4476c8a2a5c62cf1f2ea6b39dfe5fd4b62bd1f[m
+Author: Myko_Prys <nickprys@gmail.com>
+Date:   Sat Jan 25 15:48:28 2025 +0100
+
+    Initial Commit
